@@ -1,1 +1,66 @@
 # 7hillsmma.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seven Hills MMA - Semi- Private Training</title>
+    <style>
+        /* This makes it look like a clean notebook, not a 1995 website */
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #111;
+            background: #fafafa;
+        }
+        h1, h2 { border-bottom: 2px solid #000; padding-bottom: 5px; }
+        .schedule-item { margin-bottom: 10px; }
+        .btn {
+            display: inline-block;
+            background: #000;
+            color: #fff;
+            padding: 12px 20px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .btn:hover { background: #333; }
+        footer { margin-top: 40px; color: #666; font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+    <h1>🥊 Seven Hills Mixed Martial Arts</h1>
+    <p><em>Diamonds can only grow under pressure.</em></p>
+    <!-- SECTION 1: CLASS SCHEDULE -->
+    <h2>📅 Class Schedule</h2>
+    <div class="schedule-item"><strong>Tuesday:</strong> 6:00 PM - Striking & Kickboxing</div>
+    <div class="schedule-item"><strong>Wednesday:</strong> 6:00 PM - Submission Wrestling & Clinching</div>
+    <div class="schedule-item"><strong>Thursday:</strong> 6:00 PM - Muay Thai & Shootboxing</div>
+    <!-- SECTION 2: YOUTUBE LINK -->
+    <h2>▶️ Latest Technique</h2>
+    <p>Check out our latest breakdown of the Rear Naked Choke setup.</p>
+    <!-- REPLACE THE LINK AFTER href=" with your actual YouTube channel URL -->
+    <a href="https://youtube.com/@SevenHillsMMA" target="_blank" class="btn">Watch on YouTube →</a>
+    <!-- SECTION 3: BOOKING (CALENDLY) -->
+    <h2>📞 Book a Private Session</h2>
+    <p>One-on-one coaching. Click below to pick a time that works for you.</p>
+    <!-- REPLACE THE LINK AFTER href=" with your actual Calendly link -->
+    <a href="https://calendly.com/sevenhillsmma" target="_blank" class="btn">Book Appointment (Calendly) →</a>
+    <!-- SECTION 4: ABOUT US -->
+    <h2>👊 About Us</h2>
+    <p>We are a competition-focused team dedicated to practical self-defense and sport MMA. Whether you're looking to get in shape or step into the cage, we provide a safe but hard-working environment. </p>
+    <p><strong>Coach:</strong> Ron King III - 17 years of martial arts experience, 30 muay Thai fights from the age of 12 to 23 including in England and Italy.</p>
+    <!-- SECTION 5: FAQ -->
+    <h2>❓ FAQ</h2>
+    <p><strong>Do I need experience?</strong><br>No. Beginners are absolutely encouraged to check out our progam and we prefer it which is why we have a cap.</p>
+    <p><strong>What gear do I need?</strong><br>Mouthguard, cup, knee-length shorts, rashguard, athletic shirts, water bottle, 7oz MMA sparring gloves and 16oz gloves.</p>
+    <p><strong>Where are you located?</strong><br>[Insert Gym Address Here]</p>
+    <footer>
+        © [2026] [Seven Hills Mixed Martial Arts]. Built on GitHub Pages by Ron King III.
+    </footer>
+</body>
+</html>
