@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 </head>
 <body>
     <h1>🥊 Seven Hills Mixed Martial Arts</h1>
